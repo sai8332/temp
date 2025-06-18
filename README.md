@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 WeatherApp Screenshot
+![screenshot](https://github.com/user-attachments/assets/d9bf13a2-ca6e-4aa3-a6fc-5ddafe4218af)
+
 
 In the project directory, you can run:
 
