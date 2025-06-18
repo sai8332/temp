@@ -1,0 +1,157 @@
+
+ .container {
+  width: 450px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #0f3ec9;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.text {
+  padding: 8px;
+  border-radius: 5px;
+  border: none;
+  width: 180px;
+  font-size: 18px;
+}
+
+.btn {
+  padding: 8px 12px;
+  border-radius: 5px;
+  background-color: white;
+  color: #3a61d1;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  width: 100px;
+}
+
+.h1{
+  font-size: 80px;
+}
+.humidity{
+  text-align: left;
+  font-size: 18px;
+  position: fixed;
+  top: 50%;
+  left: 39%;
+  .svg{
+     text-align: left;
+  font-size: 18px;
+  position: fixed;
+  
+  left: 37%;
+  bottom:43%;
+
+  }
+  
+}
+.speed{
+  font-size: 18px;
+ position: fixed;
+  top: 50%;
+  right: 38%;
+  text-align: right;
+  .hpara{
+    font-size: 19px;
+    text-align: center;
+  }
+}
+.svg1{
+  text-align: right;
+  font-size: 18px;
+  position: fixed;
+  
+  right: 45%;
+  bottom:43%;
+}
+.speedp{
+  font-size: 19px;
+  text-align: center;
+}
+
+
+
+.footer {
+  margin-top: 150px;
+  font-weight: bold;
+  color: yellow;
+}
+
+.weather-container {
+  background-color: #3b5fbf;
+  padding: 30px;
+  width: 400px;
+  height: 550px;
+  border-radius: 15px;
+  text-align: center;
+  color: white;
+  margin: auto;
+  font-family: sans-serif;
+}
+
+.weather-container input {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  width: 60%;
+  margin-right: 10px;
+}
+
+.weather-container button {
+  padding: 10px;
+  border: 1px solid white;
+  background: transparent;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.weather-container img {
+  margin-top: 20px;
+  width: 80px;
+}
+
+.info {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+.details{
+  text-align: center;
+}
+.humi{
+  text-align: left;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.speed{
+   text-align: right;
+  font-size: 18px;
+  margin-top: 25px;
+
+}
+
+.footer {
+  color: yellow;
+  font-weight: bold;
+  margin-top: 70px;
+  font-size: 18px;
+}
